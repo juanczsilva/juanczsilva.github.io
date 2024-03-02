@@ -1,0 +1,146 @@
+{
+    "APP": {
+        "NAVIGATE": "Inicio",
+        "LANGUAGE": "Idioma",
+        "LIGHT_MODE": "Modo claro",
+        "DARK_MODE": "Modo oscuro",
+        "WORK": "Laboral",
+        "PERSONAL": "Personal",
+        "TECH": "Tecnologías",
+        "MEDIA": "Imágenes",
+        "PREV": "Anterior",
+        "NEXT": "Siguiente"
+    },
+    "HOME": {
+        "PART_1": "Mientras probaba una nueva versión de Angular, se me ocurrió armar esta web para detallar y resumir lo más relevante que fui programando hasta el momento. Después, una vez terminada, dejarla subida aca en mi <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",
+        "PART_2": "<ul><li>Lado Personal: muestro los proyectos personales que considere que son interesantes.</li><li>Lado Laboral: comento algunas tareas técnicas de proyectos laborales en los que participé.</li></ul>",
+        "PART_3": "Ver proyectos del lado:",
+        "PART_4": "Hecho con Angular &amp; Material&nbsp;"
+    },
+    "WORK": {
+        "PRJA": {
+            "PART_1": "Primer proyecto laboral. Proyecto de banking migrado desde Visual Basic.",
+            "PART_2": "<br/>Algunas de las tareas fueron: Desarrollar formularios con validaciones y campos anidados. Generar reportes en formato Excel.&nbsp;",
+            "PART_3": "Construir tests de Java utilizando <a href=\"https://junit.org\" target=\"_blank\">JUnit</a>.",
+            "PART_4": "{[java]} (Backend. Eclipse IDE. <a href=\"https://spring.io/projects/spring-framework\" target=\"_blank\">Spring Framework</a>. Oracle Database. Hibernate. Maven. Apache Tomcat)",
+            "PART_5": "{[js]} (Frontend. <a href=\"https://jquery.com\" target=\"_blank\">jQuery</a>)",
+            "PART_6": "{[angularjs]} (Usado en algunos módulos del proyecto)",
+            "PART_7": "{[css]} (<a href=\"https://getbootstrap.com\" target=\"_blank\">Bootstrap</a>)"
+        },
+        "PRJB": {
+            "PART_1": "Proyecto de gestión de usuarios. Abarcaba una página web y una aplicación mobile.",
+            "PART_2": "<br/>Algunas de las tareas fueron:&nbsp;",
+            "PART_3": "Crear un escáner de códigos de barra y códigos QR, para eso usé la <a href=\"https://developer.mozilla.org/docs/Web/API/WebRTC_API\" target=\"_blank\">API de WebRTC</a> con ayuda de la librería <a href=\"https://github.com/zxing/zxing\" target=\"_blank\">ZXing</a>.&nbsp;",
+            "PART_4": "Convertir páginas con información del usuario en una imagen para descargar o compartir.",
+            "PART_5": "{[ionic]} (Aplicación mobile híbrida. Angular. TypeScript. Cordova. Android. iOS)",
+            "PART_6": "{[angular]} (Página web)",
+            "PART_7": "{[nodejs]} (Servidor de desarrollo. Administrador de dependencias y plugins)"
+        },
+        "PRJC": {
+            "PART_1": "Este proyecto era una web para registrar eventos.&nbsp;",
+            "PART_2": "Su página principal funcionaba como una cronología de eventos, en donde se podían filtrar, ampliar o crear nuevos.",
+            "PART_3": "<br/>Algunas de las tareas fueron: Crear la funcionalidad para cargar y modificar eventos,&nbsp;",
+            "PART_4": "con la posibilidad de insertar texto enriquecido, archivos adjuntos, imágenes desde la cámara, grabaciones de voz, ubicación actual.&nbsp;",
+            "PART_5": "Realizar acciones en un modo offline y sincronizar todo al reconectarse. Armar un sistema de notificaciones.",
+            "PART_6": "{[csharp]} (Backend. Visual Studio. <a href=\"https://es.wikipedia.org/wiki/Microsoft_.NET\" target=\"_blank\">.NET Framework</a>. MSSQL. SignalR. Entity Framework. LINQ. NuGet)",
+            "PART_7": "{[angular]} (Frontend. PWA. <a href=\"https://www.telerik.com/kendo-angular-ui\" target=\"_blank\">Kendo UI</a>. TypeScript)",
+            "PART_8": "{[nodejs]} (Servidor de desarrollo. Administrador de dependencias)",
+            "PART_9": "{[css]} (<a href=\"https://getbootstrap.com\" target=\"_blank\">Bootstrap</a>)"
+        },
+        "PRJD": {
+            "PART_1": "Este proyecto fue una herramienta web que servía para coordinar las distintas acciones de una empresa.",
+            "PART_2": "<br/>Algunas de las tareas fueron: Subida dinámica de documentos en base a datos de formularios.&nbsp;",
+            "PART_3": "Generar una capa de conexión con <a href=\"https://es.wikipedia.org/wiki/Microsoft_SharePoint\" target=\"_blank\">SharePoint</a> para compartir los archivos en la red.&nbsp;",
+            "PART_4": "Adaptar características para que funcionen correctamente en Internet Explorer 9.",
+            "PART_5": "{[java]} (Backend. Eclipse IDE. <a href=\"https://docs.oracle.com/javaee/7/api/javax/servlet/Servlet.html\" target=\"_blank\">Servlets</a>. JDBC. Oracle Database)",
+            "PART_6": "{[js]} (Frontend. Vanilla)",
+            "PART_7": "{[html]} (<a href=\"https://es.wikipedia.org/wiki/JavaServer_Pages\" target=\"_blank\">JSP</a>)"
+        },
+        "PRJE": {
+            "PART_1": "Proyecto enfocado en una página web que funcionaba como Home Banking.",
+            "PART_2": "<br/>Algunas de las tareas fueron: Implementar la arquitectura de <a href=\"https://es.wikipedia.org/wiki/Microfrontend\" target=\"_blank\">Microfrontend</a> para dividir módulos de la aplicación en proyectos separados.&nbsp;",
+            "PART_3": "Modificar vista para mostrar los datos en un gráfico de torta o circular.",
+            "PART_4": "{[java]} (Backend. Eclipse IDE. <a href=\"https://spring.io/projects/spring-boot\" target=\"_blank\">Spring Boot</a>. Maven)",
+            "PART_5": "{[angularjs]} (Frontend. Proyecto principal. <a href=\"https://lit.dev/docs\" target=\"_blank\">LitElement</a>)",
+            "PART_6": "{[react]} (Usado en algunos módulos del proyecto. TypeScript. <a href=\"https://www.highcharts.com\" target=\"_blank\">Highcharts</a>)"
+        },
+        "PRJF": {
+            "PART_1": "Este proyecto era una página web de tipo CRM orientada a la gestión de cobros.",
+            "PART_2": "<br/>Algunas de las tareas fueron: Desarrollar una herramienta que permita leer cualquier archivo en formato Excel, extraer la información deseada,&nbsp;",
+            "PART_3": "y descargarla en un nuevo archivo con una plantilla predefinida. Modificar servicios de importación de archivos para procesar la información y guardarla en la base de datos.",
+            "PART_4": "{[java]} (Backend. IntelliJ IDEA. <a href=\"https://spring.io/projects/spring-boot\" target=\"_blank\">Spring Boot</a>. PostgreSQL)",
+            "PART_5": "{[angular]} (Frontend. TypeScript. <a href=\"https://github.com/exceljs/exceljs\" target=\"_blank\">ExcelJS</a>)",
+            "PART_6": "{[css]} (<a href=\"https://getbootstrap.com\" target=\"_blank\">Bootstrap</a>)"
+        }
+    },
+    "PERSONAL": {
+        "GUITARWEBGAME": {
+            "PART_1": "Proyecto de práctica. Surge como experimento para construir un proceso encargado de leer las notas indicadas en un archivo de secuencia <a href=\"https://es.wikipedia.org/wiki/MIDI\" target=\"_blank\">MIDI</a>.&nbsp;",
+            "PART_2": "En este proceso cada nota se va leyendo en su determinado tiempo y se mostrará en pantalla según cual corresponda.&nbsp;",
+            "PART_3": "<br/>En base a esto decidí armar un juego rítmico web al estilo <a href=\"https://es.wikipedia.org/wiki/Guitar_Hero\" target=\"_blank\">Guitar Hero</a>.&nbsp;", 
+            "PART_4": "<br/>Se me ocurrió que las canciones sean de conciertos en vivo y al jugar se pueda ver el video de fondo,&nbsp;",
+            "PART_5": "para eso usé la <a href=\"https://developers.google.com/youtube/iframe_api_reference\" target=\"_blank\">API IFrame de YouTube</a>.",
+            "PART_6": "{[nodejs]} (Backend)",
+            "PART_7": "{[npm]} &rarr; <span style=\"font-weight: 500;\">express</span> (Paquete usado para iniciar un servidor que hospeda la web del juego. También dispone servicios que sirven para obtener la lista de canciones o para obtener  información de la canción seleccionada)",
+            "PART_8": "{[npm]} &rarr; <span style=\"font-weight: 500;\">@tonejs/midi</span> (Paquete usado para leer el archivo midi que contiene las notas)",
+            "PART_9": "{[npm]} &rarr; <span style=\"font-weight: 500;\">ini</span> (Paquete usado para leer el archivo ini que contiene la información de la canción)",
+            "PART_10": "{[js]} (Frontend. Vanilla. Proceso de notas hecho bajo un bucle sobre la función de WebAPI <a href=\"https://developer.mozilla.org/es/docs/Web/API/window/requestAnimationFrame\" target=\"_blank\">requestAnimationFrame</a>)",
+            "PART_11": "{[html]} (Sin canvas. Usa otros elementos nativos)",
+            "PART_12": "{[css]} (Layout con flexbox. Animaciones para los elementos)"
+        },
+        "DOSWAR": {
+            "PART_1": "Proyecto iniciado con el objetivo de hacer mi propio juego multijugador online.",
+            "PART_2": "<br/>Es un juego al estilo <a href=\"https://www.cs2d.com\" target=\"_blank\">Counter Strike 2D</a> creado con el motor gráfico Unity.",
+            "PART_3": "<br/>Me enfoqué más en la cuestión técnica, por eso usé gráficos en 2D con un diseño simple inspirado en los sistemas <a href=\"https://es.wikipedia.org/wiki/DOS\" target=\"_blank\">DOS</a>.",
+            "PART_4": "<br/>Se puede jugar en LAN y por Internet. Es por equipos y dispone de distintas armas para elegir.",
+            "PART_5": "<br/>Las reapariciones son infinitas, aunque mi idea era hacerlo por rondas.&nbsp;",
+            "PART_6": "Los mapas y el editor disponen solo de un objeto por el momento.",
+            "PART_7": "{[unity]} (Motor gráfico. Paquete <a href=\"https://docs.unity3d.com/Manual/UNet.html\" target=\"_blank\">UNet</a> para el sistema de red y sincronización de objetos)",
+            "PART_8": "{[csharp]} (Funcionalidad general y sistemas del juego. Adicionalmente agregué <a href=\"https://discord.com/developers/docs/game-sdk/sdk-starter-guide\" target=\"_blank\">Presencia en Discord</a> y un cifrado de IP con <a href=\"https://es.wikipedia.org/wiki/Advanced_Encryption_Standard\" target=\"_blank\">AES</a>)",
+            "PART_9": "{[php]} (Usado para la lista de partidas. Funciona mediante un archivo PHP alojado en un servidor. Lo armé para disponer de dos servicios, uno permite obtener la lista, y otro permite agregar una partida nueva)"
+        },
+        "ALUNDRE": {
+            "PART_1": "Este proyecto es el segundo juego que pude completar con Unity. Lo inicié para probar la herramienta de <a href=\"https://learn.unity.com/tutorial/introduction-to-tilemaps\" target=\"_blank\">Tilemaps</a> que trae este motor.",
+            "PART_2": "<br/>Para eso, había descargado unos <a href=\"https://unity.com/how-to/beginner/game-development-terms#general-game-development-terms#:~:text=Asset\" target=\"_blank\">Assets</a> del juego de PlayStation <a href=\"https://es.wikipedia.org/wiki/Alundra\" target=\"_blank\">Alundra</a>, que contenían varios archivos para experimentar.",
+            "PART_3": "<br/>Después de lograr un funcionamiento básico, decidí avanzar el proyecto y crear mi propia versión del juego.",
+            "PART_4": "<br/>Los <a href=\"https://es.wikipedia.org/wiki/Sprite_(videojuegos)\" target=\"_blank\">Sprites</a> y los sonidos son extraídos del juego original. Las mecánicas y el escenario los construí desde cero.",
+            "PART_5": "<br/>Planifiqué un mapa ambicioso y fue lo que más tiempo me llevó. Lo más complejo fue desarrollar el comportamiento de los enemigos.",
+            "PART_6": "{[unity]} (Motor gráfico)",
+            "PART_7": "{[csharp]} (Funcionalidad general y sistemas del juego)"
+        },
+        "PORTABLE": {
+            "PART_1": "Este programa lo hice para generar un único ejecutable portable y autoextraible.",
+            "PART_2": "<br/>Ejemplo de cómo funciona con uno de mis juegos:",
+            "PART_3": "<br/>Se vincula un archivo comprimido ZIP al momento de compilar, en este caso contiene todos los archivos necesarios del juego.",
+            "PART_4": "<br/>Cuando se ejecuta, primero revisa si existe la carpeta de extracción y si contiene archivos.&nbsp;",
+            "PART_5": "Si ya existe, abre el archivo indicado y frena el proceso. Si no existe entonces la crea y continúa el proceso.",
+            "PART_6": "<br/>Lee el ZIP vinculado y extrae su contenido.&nbsp;",
+            "PART_7": "Después de extraer todo, abre el archivo indicado, en este caso el ejecutable del juego.",
+            "PART_8": "{[c]} (Librerías <a href=\"https://www.zlib.net\" target=\"_blank\">zlib</a> y <a href=\"https://www.winimage.com/zLibDll/minizip.html\" target=\"_blank\">minizip</a> para manipular archivos ZIP. Compilador <a href=\"https://es.wikipedia.org/wiki/GNU_Compiler_Collection\" target=\"_blank\">gcc</a>)",
+            "PART_9": "{[cpp]} (Código principal. Compilador <a href=\"https://es.wikipedia.org/wiki/GNU_Compiler_Collection#Lenguajes\" target=\"_blank\">g++</a>. Utilidad <a href=\"https://en.wikipedia.org/wiki/GNU_Binutils#Commands\" target=\"_blank\">windres</a> para generar el archivo de recursos)",
+            "PART_10": "{[chatgpt]} (Sintaxis de código)"
+        },
+        "CONTROL": {
+            "PART_1": "Control remoto sencillo que sirve para enviar comandos al reproductor multimedia <a href=\"https://www.videolan.org/vlc\" target=\"_blank\">VLC</a> desde otro dispositivo.",
+            "PART_2": "<br/>El objetivo es poder controlar el programa desde el teléfono sin necesidad de usar la PC.",
+            "PART_3": "<br/>Funciona mediante una web que es accesible en toda la red local.",
+            "PART_4": "<br/>Características: botones anterior y siguiente, botones de volumen, botón para silenciar,&nbsp;",
+            "PART_5": "botón para seleccionar desde la lista de reproducción actual, botón para cerrar el programa y apagar Windows.",
+            "PART_6": "{[nodejs]} (Backend)",
+            "PART_7": "{[npm]} &rarr; <span style=\"font-weight: 500;\">express</span> (Paquete usado para iniciar un servidor que hospeda la web)",
+            "PART_8": "{[npm]} &rarr; <span style=\"font-weight: 500;\">socket.io</span> (Paquete usado para comunicar cliente y servidor)",
+            "PART_9": "{[js]} (Frontend. Vanilla)",
+            "PART_10": "{[html]} (Estructura simple)",
+            "PART_11": "{[css]} (Diseño simple)"
+        },
+        "RANDOMBOT": {
+            "PART_1": "Es un Bot de <a href=\"https://discord.com\" target=\"_blank\">Discord</a> creado por entretenimiento y para experimentar con sus capacidades.",
+            "PART_2": "<br/>Los datos se obtienen de distintas páginas web y se envían al canal de texto o de voz.",
+            "PART_3": "<br/>Algunos de los comandos sirven para: obtener palabras aleatorias, obtener emojis aleatorios de <a href=\"https://www.twitch.tv\" target=\"_blank\">Twitch</a>,&nbsp;",
+            "PART_4": "obtener bandas de metal aleatorias, obtener sonidos aleatorios, generar texto a voz, escuchar una radio.",
+            "PART_5": "{[nodejs]} (Backend. Servidor del Bot)",
+            "PART_6": "{[npm]} &rarr; <a href=\"https://discord.js.org/docs/packages/discord.js/main\" target=\"_blank\"><span style=\"font-weight: 500;\">discord.js</span></a> (Paquete usado para interactuar con la <a href=\"https://discord.com/developers/docs/intro\" target=\"_blank\">API de Discord</a>)",
+            "PART_7": "{[js]} (<a href=\"https://jquery.com\" target=\"_blank\">jQuery</a> para agilizar la obtención de datos y la manipulación de elementos)"
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "APP": {
+        "NAVIGATE": "Home",
+        "LANGUAGE": "Language",
+        "LIGHT_MODE": "Light mode",
+        "DARK_MODE": "Dark mode",
+        "WORK": "Work",
+        "PERSONAL": "Personal",
+        "TECH": "Technologies",
+        "MEDIA": "Media",
+        "PREV": "Previous",
+        "NEXT": "Next"
+    },
+    "HOME": {
+        "PART_1": "While testing a new version of Angular, I decided to create this website to detail and summarize the most relevant things I have been programming up to now. Once it is finished, I will upload it here on my <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",
+        "PART_2": "<ul><li>Personal Section: I show personal projects that I find interesting.</li><li>Work Section: I mention some technical tasks of work projects in which I participated.</li></ul>",
+        "PART_3": "See projects:",
+        "PART_4": "Made with Angular &amp; Material&nbsp;"
+    },
+    "WORK": {
+        "PRJA": {
+            "PART_1": "First work project. Banking project migrated from Visual Basic.",
+            "PART_2": "<br/>Some tasks were: Develop forms with validations and nested fields. Generate reports in Excel format.&nbsp;",
+            "PART_3": "Build Java tests using <a href=\"https://junit.org\" target=\"_blank\">JUnit</a>.",
+            "PART_4": "{[java]} (Backend. Eclipse IDE. <a href=\"https://spring.io/projects/spring-framework\" target=\"_blank\">Spring Framework</a>. Oracle Database. Hibernate. Maven. Apache Tomcat)",
+            "PART_5": "{[js]} (Frontend. <a href=\"https://jquery.com\" target=\"_blank\">jQuery</a>)",
+            "PART_6": "{[angularjs]} (Used in some project modules)",
+            "PART_7": "{[css]} (<a href=\"https://getbootstrap.com\" target=\"_blank\">Bootstrap</a>)"
+        },
+        "PRJB": {
+            "PART_1": "User management project. It included a website and a mobile application.",
+            "PART_2": "<br/>Some tasks were:&nbsp;",
+            "PART_3": "Create a barcode and QR code scanner, to do this I used the <a href=\"https://developer.mozilla.org/docs/Web/API/WebRTC_API\" target=\"_blank\">WebRTC API</a> with the help of the <a href=\"https://github.com/zxing/zxing\" target=\"_blank\">ZXing</a> library.&nbsp;",
+            "PART_4": "Convert pages with user information into an image for downloading or sharing.",
+            "PART_5": "{[ionic]} (Hybrid mobile application. Angular. TypeScript. Cordova. Android. iOS)",
+            "PART_6": "{[angular]} (Website)",
+            "PART_7": "{[nodejs]} (Development server. Dependencies and plugins manager)"
+        },
+        "PRJC": {
+            "PART_1": "This project was a website to register events.&nbsp;",
+            "PART_2": "Its main page worked as a timeline of events, in which it was possible to filter, expand or create new ones.",
+            "PART_3": "<br/>Some tasks were: Implement functionality to insert and modify events,&nbsp;",
+            "PART_4": "with the possibility of inserting rich text, attachments, images from camera, voice recordings, current location.&nbsp;",
+            "PART_5": "Perform actions in an offline mode and synchronize everything when reconnecting. Build a notification system.",
+            "PART_6": "{[csharp]} (Backend. Visual Studio. <a href=\"https://en.wikipedia.org/wiki/.NET_Framework\" target=\"_blank\">.NET Framework</a>. MSSQL. SignalR. Entity Framework. LINQ. NuGet)",
+            "PART_7": "{[angular]} (Frontend. PWA. <a href=\"https://www.telerik.com/kendo-angular-ui\" target=\"_blank\">Kendo UI</a>. TypeScript)",
+            "PART_8": "{[nodejs]} (Development server. Dependencies manager)",
+            "PART_9": "{[css]} (<a href=\"https://getbootstrap.com\" target=\"_blank\">Bootstrap</a>)"
+        },
+        "PRJD": {
+            "PART_1": "This project was a web tool that worked to coordinate different actions of a company.",
+            "PART_2": "<br/>Some tasks were: Dynamic uploading of documents based on data from multiple forms.&nbsp;",
+            "PART_3": "Generate a connection layer with <a href=\"https://en.wikipedia.org/wiki/SharePoint\" target=\"_blank\">SharePoint</a> to share files on the network.&nbsp;",
+            "PART_4": "Configure features to work correctly in Internet Explorer 9.",
+            "PART_5": "{[java]} (Backend. Eclipse IDE. <a href=\"https://docs.oracle.com/javaee/7/api/javax/servlet/Servlet.html\" target=\"_blank\">Servlets</a>. JDBC. Oracle Database)",
+            "PART_6": "{[js]} (Frontend. Vanilla)",
+            "PART_7": "{[html]} (<a href=\"https://en.wikipedia.org/wiki/Jakarta_Server_Pages\" target=\"_blank\">JSP</a>)"
+        },
+        "PRJE": {
+            "PART_1": "Project focused on developing a website designed to function as Home Banking.",
+            "PART_2": "<br/>Some tasks were: Implement the <a href=\"https://en.wikipedia.org/wiki/Microfrontend\" target=\"_blank\">Microfrontend</a> architecture to split application modules into separate projects.&nbsp;",
+            "PART_3": "Modify a view to display data in a pie or circle chart.",
+            "PART_4": "{[java]} (Backend. Eclipse IDE. <a href=\"https://spring.io/projects/spring-boot\" target=\"_blank\">Spring Boot</a>. Maven)",
+            "PART_5": "{[angularjs]} (Frontend. Main project. <a href=\"https://lit.dev/docs\" target=\"_blank\">LitElement</a>)",
+            "PART_6": "{[react]} (Used in some project modules. TypeScript. <a href=\"https://www.highcharts.com\" target=\"_blank\">Highcharts</a>)"
+        },
+        "PRJF": {
+            "PART_1": "This project was a CRM-type website focused on debt management.",
+            "PART_2": "<br/>Some tasks were: Develop a tool that allows reading any Excel file, extracting the desired information,&nbsp;",
+            "PART_3": "and downloading it into a new file with a predefined template. Modify file import services to process the information and save it in the database.",
+            "PART_4": "{[java]} (Backend. IntelliJ IDEA. <a href=\"https://spring.io/projects/spring-boot\" target=\"_blank\">Spring Boot</a>. PostgreSQL)",
+            "PART_5": "{[angular]} (Frontend. TypeScript. <a href=\"https://github.com/exceljs/exceljs\" target=\"_blank\">ExcelJS</a>)",
+            "PART_6": "{[css]} (<a href=\"https://getbootstrap.com\" target=\"_blank\">Bootstrap</a>)"
+        }
+    },
+    "PERSONAL": {
+        "GUITARWEBGAME": {
+            "PART_1": "Practice project. This started as an experiment to build a process that would read the notes indicated in a <a href=\"https://en.wikipedia.org/wiki/MIDI\" target=\"_blank\">MIDI</a> sequence file.&nbsp;",
+            "PART_2": "In this process each note is read in its own time and will be displayed on the screen.&nbsp;",
+            "PART_3": "<br/>Based on this I decided to create a web rhythm game with a <a href=\"https://en.wikipedia.org/wiki/Guitar_Hero\" target=\"_blank\">Guitar Hero</a> style.&nbsp;", 
+            "PART_4": "<br/>I had the idea that the songs should be from live concerts and you can watch their videos while playing,&nbsp;",
+            "PART_5": "for this I used the <a href=\"https://developers.google.com/youtube/iframe_api_reference\" target=\"_blank\">YouTube IFrame API</a>.",
+            "PART_6": "{[nodejs]} (Backend)",
+            "PART_7": "{[npm]} &rarr; <span style=\"font-weight: 500;\">express</span> (Package used to start a server that hosts the game website. It also provides services to get the songlist or get information about the selected song)",
+            "PART_8": "{[npm]} &rarr; <span style=\"font-weight: 500;\">@tonejs/midi</span> (Package used to read the midi file that contains the notes)",
+            "PART_9": "{[npm]} &rarr; <span style=\"font-weight: 500;\">ini</span> (Package used to read the ini file that contains the song information)",
+            "PART_10": "{[js]} (Frontend. Vanilla. Notes processing is done in a loop within the WebAPI <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame\" target=\"_blank\">requestAnimationFrame</a> function)",
+            "PART_11": "{[html]} (No canvas. Uses other native elements)",
+            "PART_12": "{[css]} (Flexbox layout. Animations for the elements)"
+        },
+        "DOSWAR": {
+            "PART_1": "Project started with the goal of making my own online multiplayer game.",
+            "PART_2": "<br/>It's a <a href=\"https://www.cs2d.com\" target=\"_blank\">Counter Strike 2D</a> style game created with the Unity engine.",
+            "PART_3": "<br/>I focused on the technical side, that's why I used 2D graphics with a simple design inspired by the <a href=\"https://en.wikipedia.org/wiki/DOS\" target=\"_blank\">DOS</a> systems.",
+            "PART_4": "<br/>It's playable in LAN and over Internet. Team based and has different weapons to choose from.",
+            "PART_5": "<br/>Respawns are infinite, but my idea was to do it in rounds.&nbsp;",
+            "PART_6": "The maps and the editor currently have only one object.",
+            "PART_7": "{[unity]} (Game engine. Package <a href=\"https://docs.unity3d.com/Manual/UNet.html\" target=\"_blank\">UNet</a> for networking and objects synchronization)",
+            "PART_8": "{[csharp]} (General functionality and game systems. Additionally I added <a href=\"https://discord.com/developers/docs/game-sdk/sdk-starter-guide\" target=\"_blank\">Rich Presence on Discord</a> and IP encryption with <a href=\"https://en.wikipedia.org/wiki/Advanced_Encryption_Standard\" target=\"_blank\">AES</a>)",
+            "PART_9": "{[php]} (Used for the match list. It works through a PHP file hosted on a server. I built it to provide two services, one allows to get the list, and the other one allows to add a new match)"
+        },
+        "ALUNDRE": {
+            "PART_1": "This project is the second game I was able to complete with Unity. I started it to test the <a href=\"https://learn.unity.com/tutorial/introduction-to-tilemaps\" target=\"_blank\">Tilemaps</a> tool that comes with this engine.",
+            "PART_2": "<br/>To do that, I downloaded some <a href=\"https://unity.com/how-to/beginner/game-development-terms#general-game-development-terms#:~:text=Asset\" target=\"_blank\">Assets</a> of the PlayStation game <a href=\"https://en.wikipedia.org/wiki/Alundra\" target=\"_blank\">Alundra</a>, which included several files to experiment with.",
+            "PART_3": "<br/>After getting the basic stuff working, I decided to move the project forward and create my own version of this game.",
+            "PART_4": "<br/>The <a href=\"https://en.wikipedia.org/wiki/Sprite_(computer_graphics)\" target=\"_blank\">Sprites</a> and sounds are taken from the original game. The game mechanics and the game stage were built from scratch.",
+            "PART_5": "<br/>I planned an ambitious map and that was what took me the most time. The most challenging part was to develop the behavior of the enemies.",
+            "PART_6": "{[unity]} (Game engine)",
+            "PART_7": "{[csharp]} (General functionality and game systems)"
+        },
+        "PORTABLE": {
+            "PART_1": "I made this program to generate a single portable and self-extracting executable.",
+            "PART_2": "<br/>Example of how it works with one of my games:",
+            "PART_3": "<br/>A compressed ZIP file is linked at compile time, in this case it contains all the necessary game files.",
+            "PART_4": "<br/>When it runs, it first checks whether the extraction folder exists and if it contains any files.&nbsp;",
+            "PART_5": "If the folder already exists, the process opens the specified file and stops. If the folder does not exist, the process creates it and continues.",
+            "PART_6": "<br/>Reads the linked ZIP and extracts its contents.&nbsp;",
+            "PART_7": "After extracting all, it opens the specified file, in this case, the executable of the game.",
+            "PART_8": "{[c]} (Libraries <a href=\"https://www.zlib.net\" target=\"_blank\">zlib</a> and <a href=\"https://www.winimage.com/zLibDll/minizip.html\" target=\"_blank\">minizip</a> to handle ZIP files. Compiler <a href=\"https://en.wikipedia.org/wiki/GNU_Compiler_Collection\" target=\"_blank\">gcc</a>)",
+            "PART_9": "{[cpp]} (Main code. Compiler <a href=\"https://en.wikipedia.org/wiki/GNU_Compiler_Collection#Supported_languages\" target=\"_blank\">g++</a>. Utility <a href=\"https://en.wikipedia.org/wiki/GNU_Binutils#Commands\" target=\"_blank\">windres</a> to generate the resource file)",
+            "PART_10": "{[chatgpt]} (Code syntax)"
+        },
+        "CONTROL": {
+            "PART_1": "Simple remote control that allows to send commands to the <a href=\"https://www.videolan.org/vlc\" target=\"_blank\">VLC</a> media player from another device.",
+            "PART_2": "<br/>The goal is to be able to control the application from the phone without the need to use the PC.",
+            "PART_3": "<br/>It works through a web site that is accessible from the local network.",
+            "PART_4": "<br/>Features: previous and next buttons, volume buttons, mute button,&nbsp;",
+            "PART_5": "button to select from the current playlist, button to close the application and shutdown Windows.",
+            "PART_6": "{[nodejs]} (Backend)",
+            "PART_7": "{[npm]} &rarr; <span style=\"font-weight: 500;\">express</span> (Package used to start a server that hosts the website)",
+            "PART_8": "{[npm]} &rarr; <span style=\"font-weight: 500;\">socket.io</span> (Package used to communicate client and server)",
+            "PART_9": "{[js]} (Frontend. Vanilla)",
+            "PART_10": "{[html]} (Simple structure)",
+            "PART_11": "{[css]} (Simple design)"
+        },
+        "RANDOMBOT": {
+            "PART_1": "This is a <a href=\"https://discord.com\" target=\"_blank\">Discord</a> Bot created for entertainment and to experiment with its capabilities.",
+            "PART_2": "<br/>The data is obtained from various web pages and then sent to the text or voice channel.",
+            "PART_3": "<br/>Some commands allow you to: get random words, fetch random emojis from <a href=\"https://www.twitch.tv\" target=\"_blank\">Twitch</a>,&nbsp;",
+            "PART_4": "discover random metal bands, get random sounds, generate text-to-speech, listen to a radio.",
+            "PART_5": "{[nodejs]} (Backend. Bot Server)",
+            "PART_6": "{[npm]} &rarr; <a href=\"https://discord.js.org/docs/packages/discord.js/main\" target=\"_blank\"><span style=\"font-weight: 500;\">discord.js</span></a> (Package used to interact with the <a href=\"https://discord.com/developers/docs/intro\" target=\"_blank\">Discord API</a>)",
+            "PART_7": "{[js]} (<a href=\"https://jquery.com\" target=\"_blank\">jQuery</a> to facilitate data extraction and element manipulation)"
+        }
+    }
+}
