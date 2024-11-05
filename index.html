@@ -23,10 +23,12 @@
   <app-root>
     <div id="loader"><img src="assets/favicon.svg"></div>
     <script type="text/javascript">
+      const isDarkMode = (localStorage.getItem('dark-mode') === 'dark');
+      document.body.style.backgroundColor = (isDarkMode ? "#1c1c1c" : "#fafafa");
       const loader = document.getElementById("loader");
-      loader.style.backgroundColor = ((localStorage.getItem('dark-mode') === 'dark') ? "#1c1c1c" : "#ffffff");
+      loader.style.backgroundColor = (isDarkMode ? "#1c1c1c" : "#ffffff");
       loader.className = "page-loader";
     </script>
   </app-root>
-<script src="polyfills-LZBJRJJE.js" type="module"></script><script src="main-KQTEPKDC.js" type="module"></script></body>
+<script src="polyfills-LZBJRJJE.js" type="module"></script><script src="main-J532ODJV.js" type="module"></script></body>
 </html>
