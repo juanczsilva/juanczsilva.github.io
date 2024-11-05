@@ -70,7 +70,8 @@
             "PART_3": "y descargarla en un nuevo archivo con una plantilla predefinida. Modificar servicios de importación de archivos para procesar la información y guardarla en la base de datos.",
             "PART_4": "{[java]} (Backend. IntelliJ IDEA. <a href=\"https://spring.io/projects/spring-boot\" target=\"_blank\">Spring Boot</a>. PostgreSQL)",
             "PART_5": "{[angular]} (Frontend. TypeScript. <a href=\"https://github.com/exceljs/exceljs\" target=\"_blank\">ExcelJS</a>)",
-            "PART_6": "{[css]} (<a href=\"https://getbootstrap.com\" target=\"_blank\">Bootstrap</a>)"
+            "PART_6": "{[css]} (<a href=\"https://getbootstrap.com\" target=\"_blank\">Bootstrap</a>)",
+            "PART_7": "{[vue]} (Migración de módulo. Frontend. TypeScript. <a href=\"https://vite.dev\" target=\"_blank\">Vite</a>. <a href=\"https://vuetifyjs.com\" target=\"_blank\">Vuetify</a>. Pinia. Axios)"
         }
     },
     "PERSONAL": {
@@ -141,6 +142,14 @@
             "PART_5": "{[nodejs]} (Backend. Servidor del Bot)",
             "PART_6": "{[npm]} &rarr; <a href=\"https://discord.js.org/docs/packages/discord.js/main\" target=\"_blank\"><span style=\"font-weight: 500;\">discord.js</span></a> (Paquete usado para interactuar con la <a href=\"https://discord.com/developers/docs/intro\" target=\"_blank\">API de Discord</a>)",
             "PART_7": "{[js]} (<a href=\"https://jquery.com\" target=\"_blank\">jQuery</a> para agilizar la obtención de datos y la manipulación de elementos)"
+        },
+        "TVJ": {
+            "PART_1": "Es una aplicación de Android TV que reproduce principalmente servicios de IPTV o streams.",
+            "PART_2": "<br/>La desarrollé para poder administrar distintas fuentes de canales y utilizarla como una TV de forma simple.",
+            "PART_3": "<br/>Se controla con los botones del pad direccional. Permite elegir si cambiar el volumen del sistema o del reproductor.",
+            "PART_4": "<br/>Implementé un proceso para extraer la URL de streams en vivo de YouTube mediante <a href=\"https://es.wikipedia.org/wiki/Web_scraping\" target=\"_blank\">web scraping</a>. También agregué un servicio online que obtiene la URL de streams de Twitch (<a href=\"https://pwn.sh/tools/getstream-api.html\" target=\"_blank\">pwn.sh API</a>). Las URLs resueltas se almacenan en caché temporalmente.",
+            "PART_5": "<br/>Algunos de los formatos compatibles son: m3u8, ts, mpd, mp4, mp3.",
+            "PART_6": "{[kotlin]} (Android Studio. Java. <a href=\"https://developer.android.com/media/media3/exoplayer\" target=\"_blank\">ExoPlayer</a>)"
         }
     }
 }
