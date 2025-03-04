@@ -12,9 +12,9 @@
         "NEXT": "Siguiente"
     },
     "HOME": {
-        "PART_1": "Mientras probaba una nueva versión de Angular, se me ocurrió armar esta web para detallar y resumir lo más relevante que fui programando hasta el momento. Después, una vez terminada, dejarla subida aca en mi <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",
-        "PART_2": "<ul><li>Lado Personal: muestro los proyectos personales que considere que son interesantes.</li><li>Lado Laboral: comento algunas tareas técnicas de proyectos laborales en los que participé.</li></ul>",
-        "PART_3": "Ver proyectos del lado:",
+        "PART_1": "💼 Portafolio para almacenar lo más relevante que fui programando hasta el momento.<br/>Iniciado mientras probaba características nuevas de Angular. Este framework no es la mejor opción para una web simple, pero decidí avanzar como una primera versión. Una vez terminado se me ocurrió subirlo acá en mi <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",
+        "PART_2": "<ul><li>Lado Personal: muestro proyectos personales que considere interesantes.</li><li>Lado Laboral: menciono algunas tareas de proyectos laborales.</li></ul>",
+        "PART_3": "Ver proyectos:",
         "PART_4": "Hecho con Angular &amp; Material&nbsp;"
     },
     "WORK": {
@@ -150,6 +150,13 @@
             "PART_4": "<br/>Implementé un proceso para extraer la URL de streams en vivo de YouTube mediante <a href=\"https://es.wikipedia.org/wiki/Web_scraping\" target=\"_blank\">web scraping</a>. También agregué un servicio online que obtiene la URL de streams de Twitch (<a href=\"https://pwn.sh/tools/getstream-api.html\" target=\"_blank\">pwn.sh API</a>). Las URLs resueltas se almacenan en caché temporalmente.",
             "PART_5": "<br/>Algunos de los formatos compatibles son: m3u8, ts, mpd, mp4, mp3.",
             "PART_6": "{[kotlin]} (Android Studio. Java. <a href=\"https://developer.android.com/media/media3/exoplayer\" target=\"_blank\">ExoPlayer</a>)"
+        },
+        "TETRIS": {
+          "PART_1": "Simple juego de Tetris hecho desde cero con JavaScript y el elemento Canvas de HTML.",
+          "PART_2": "<br/>No utilicé guías o IA, sólo por entretenimiento y para poner a prueba mi experiencia.",
+          "PART_3": "<br/><br/>Click debajo para jugar o <a href=\"https://juanczsilva.github.io/tetris\" target=\"_blank\">abrir en otra pestaña (https://juanczsilva.github.io/tetris</a>)",
+          "PART_4": "{[js]} (Lógica del juego)",
+          "PART_5": "{[html]} (Elemento Canvas)"
         }
     }
 }

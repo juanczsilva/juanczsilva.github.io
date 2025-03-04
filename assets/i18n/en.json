@@ -12,8 +12,8 @@
         "NEXT": "Next"
     },
     "HOME": {
-        "PART_1": "While testing a new version of Angular, I decided to create this website to detail and summarize the most relevant things I have been programming up to now. Once it is finished, I will upload it here on my <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",
-        "PART_2": "<ul><li>Personal Section: I show personal projects that I find interesting.</li><li>Work Section: I mention some technical tasks of work projects in which I participated.</li></ul>",
+        "PART_1": "💼 Portfolio to store the most relevant things I have been programming up to now.<br/>Project started while testing new Angular features. This framework is not the best choice for a simple web like this one, but I decided to move forward as a first version. Once finished I thought of uploading it here in my <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",
+        "PART_2": "<ul><li>Personal Section: I show personal projects that I find interesting.</li><li>Work Section: I mention some tasks of work projects.</li></ul>",
         "PART_3": "See projects:",
         "PART_4": "Made with Angular &amp; Material&nbsp;"
     },
@@ -150,6 +150,13 @@
             "PART_4": "<br/>I implemented a process to extract the URL of live streams from YouTube using <a href=\"https://en.wikipedia.org/wiki/Web_scraping\" target=\"_blank\">web scraping</a>. Also added an online service that retrieves the URL of Twitch streams (<a href=\"https://pwn.sh/tools/getstream-api.html\" target=\"_blank\">pwn.sh API</a>). The resolved URLs are temporarily cached.",
             "PART_5": "<br/>Some of the supported formats are: m3u8, ts, mpd, mp4, mp3.",
             "PART_6": "{[kotlin]} (Android Studio. Java. <a href=\"https://developer.android.com/media/media3/exoplayer\" target=\"_blank\">ExoPlayer</a>)"
+        },
+        "TETRIS": {
+          "PART_1": "Simple Tetris game made from scratch with JavaScript and the HTML Canvas element.",
+          "PART_2": "<br/>No guide or AI used, just for fun and to test my experience.",
+          "PART_3": "<br/><br/>Click below to play or <a href=\"https://juanczsilva.github.io/tetris\" target=\"_blank\">open in a new tab (https://juanczsilva.github.io/tetris</a>)",
+          "PART_4": "{[js]} (Game logic)",
+          "PART_5": "{[html]} (Canvas element)"
         }
     }
 }
