@@ -9,7 +9,8 @@
         "TECH": "Technologies",
         "MEDIA": "Media",
         "PREV": "Previous",
-        "NEXT": "Next"
+        "NEXT": "Next",
+        "DOWNLOAD": "Download"
     },
     "HOME": {
         "PART_1": "💼 Portfolio to store the most relevant things I have been programming up to now.<br/>Project started while testing new Angular features. This framework is not the best choice for a simple web like this one, but I decided to move forward as a first version. Once finished I thought of uploading it here in my <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",

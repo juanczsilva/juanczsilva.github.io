@@ -9,7 +9,8 @@
         "TECH": "Tecnologías",
         "MEDIA": "Imágenes",
         "PREV": "Anterior",
-        "NEXT": "Siguiente"
+        "NEXT": "Siguiente",
+        "DOWNLOAD": "Descargar"
     },
     "HOME": {
         "PART_1": "💼 Portafolio para almacenar lo más relevante que fui programando hasta el momento.<br/>Iniciado mientras probaba características nuevas de Angular. Este framework no es la mejor opción para una web simple, pero decidí avanzar como una primera versión. Una vez terminado se me ocurrió subirlo acá en mi <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",
