@@ -13,10 +13,13 @@
         "DOWNLOAD": "Descargar"
     },
     "HOME": {
-        "PART_1": "💼 Portafolio para almacenar lo más relevante que fui programando hasta el momento.<br/>Iniciado mientras probaba características nuevas de Angular. Este framework no es la mejor opción para una web simple, pero decidí avanzar como una primera versión. Una vez terminado se me ocurrió subirlo acá en mi <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",
-        "PART_2": "<ul><li>Lado Personal: muestro proyectos personales que considere interesantes.</li><li>Lado Laboral: menciono algunas tareas de proyectos laborales.</li></ul>",
-        "PART_3": "Ver proyectos:",
-        "PART_4": "Hecho con Angular &amp; Material&nbsp;"
+        "PART_1": "💼 Portafolio para almacenar lo más relevante que fui programando hasta el momento.",
+        "PART_2": "<br/>Iniciado mientras probaba características nuevas de Angular. Este framework no es la mejor opción para una web simple, pero decidí avanzar como una primera versión. Una vez terminado se me ocurrió subirlo acá en mi <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",
+        "PART_3": "<ul><li>Lado Personal: muestro proyectos personales que considere interesantes.</li></ul>",
+        "PART_4": "<ul><li>Lado Laboral: menciono algunas tareas de proyectos laborales.</li></ul>",
+        "PART_5": "Ver proyectos",
+        "PART_6": "Hecho con Angular &amp; Material&nbsp;",
+        "PART_7": "Desarrollador de software con +5 años de experiencia laboral. Técnico en informática. <br/>Apasionado por la programación y la tecnología en general. <br/>Autodidacta. Videojuegos. Música."
     },
     "WORK": {
         "PRJA": {

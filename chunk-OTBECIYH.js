@@ -1,0 +1,1 @@
+import{Mc as c,Ub as s,ba as r,xa as n}from"./chunk-4VJJK2IR.js";var d=(()=>{let e=class e{constructor(i){this.service=i,this.pagesEnum=s}};e.\u0275fac=function(o){return new(o||e)(n(c))},e.\u0275cmp=r({type:e,selectors:[["app-base"]],decls:0,vars:0,template:function(o,a){},encapsulation:2});let t=e;return t})();export{d as a};

@@ -13,10 +13,13 @@
         "DOWNLOAD": "Download"
     },
     "HOME": {
-        "PART_1": "💼 Portfolio to store the most relevant things I have been programming up to now.<br/>Project started while testing new Angular features. This framework is not the best choice for a simple web like this one, but I decided to move forward as a first version. Once finished I thought of uploading it here in my <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",
-        "PART_2": "<ul><li>Personal Section: I show personal projects that I find interesting.</li><li>Work Section: I mention some tasks of work projects.</li></ul>",
-        "PART_3": "See projects:",
-        "PART_4": "Made with Angular &amp; Material&nbsp;"
+        "PART_1": "💼 Portfolio to store the most relevant things I have been programming up to now.",
+        "PART_2": "<br/>Project started while testing new Angular features. This framework is not the best choice for a simple web like this one, but I decided to move forward as a first version. Once finished I thought of uploading it here in my <a href=\"https://pages.github.com\" target=\"_blank\">GitHub Pages</a>.",
+        "PART_3": "<ul><li>Personal Section: I show personal projects that I find interesting.</li></ul>",
+        "PART_4": "<ul><li>Work Section: I mention some tasks of work projects.</li></ul>",
+        "PART_5": "Browse projects",
+        "PART_6": "Made with Angular &amp; Material&nbsp;",
+        "PART_7": "Software developer with 5+ years of professional experience. Computer technician. <br/>Passionate about programming and technology in general. <br/>Self-taught. Videogames. Music."
     },
     "WORK": {
         "PRJA": {
